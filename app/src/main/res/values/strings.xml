@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="title">Luke Wattson</string>
+    <string name="job_description">Android Developer</string>
+    <string name="phone_number">234-444-3434</string>
+    <string name="social_handle">jen-laurence</string>
+    <string name="email_id">jen.laurence@gmail.com</string>
+</resources>
